@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About Me
 
-I Love working on Fedora!  
+I Love testing things!  
 I love messing around with low‑level stuff, breaking things, fixing them again, and figuring out how computers actually work under the hood.  
 C, kernels, weird system behavior… that’s my comfort zone.
 
