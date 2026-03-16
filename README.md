@@ -1,35 +1,32 @@
-# Hi there
+# 👋 Hi there
 
-## About Me
+## 🧑‍💻 About Me
 
-I’m deeply interested in low‑level programming and system‑level development.
+I Love working on Fedora!  
+I love messing around with low‑level stuff, breaking things, fixing them again, and figuring out how computers actually work under the hood.  
+C, kernels, weird system behavior… that’s my comfort zone.
 
-Working on Linux — especially Fedora — is where I feel most at home.
+---
 
-I enjoy exploring new ideas, experimenting with system internals, and pushing 
+## 🔧 Technical Focus Areas
+- Playing around with kernel modules and low‑level system components  
+- Leveling up in C and Python  
+- Understanding how OS internals and hardware talk to each other  
+- Experimenting with AI models like **Wang 2.2 14B** and **DeepSeek Coder V3**
 
-my understanding of how computers really work.
+---
 
-## Technical Focus Areas
+## 🛠️ Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
-   Low‑level development and systems programming
-  
-   Writing kernel drivers and experimenting with kernel modules
-  
-   Building tools such as Nmap‑style scanners and other network utilities
-  
-   Learning and improving in C and Python
-  
-   Exploring AI models like Wang 2.2 14B and DeepSeek Coder V3
-  
-   Working with BSD‑based systems and open‑source tooling
-  
+---
 
-## Future Plans
-
-I want to dive much deeper into operating system internals and eventually build a small OS from scratch.
-My long‑term goal is to understand systems at every layer — from hardware interactions to user‑space abstractions.
-
+## 🚀 Future Plans
+I want to dive way deeper into OS development and eventually build my own small operating system — just to see if I can.  
+Long term, I want to understand every layer from hardware to user space.
 
 ## Contact
 Old Git: https://github.com/scr1pt-dev0
