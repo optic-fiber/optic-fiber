@@ -28,15 +28,6 @@ Low‑level stuff, kernels, C, weird system behavior — that’s where I feel a
 
 ---
 
-## ⚙️ Tools I Like
-- Neovim  
-- tmux  
-- GCC & Clang  
-- QEMU  
-- Git  
-
----
-
 ## 🚀 Future Plans
 Build my own tiny OS.  
 Understand every layer from hardware to user space.  
