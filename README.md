@@ -1,7 +1,6 @@
 # 👋 Hi there
 
 ## 🧑‍💻 About Me
-
 I Love testing things!  
 I love messing around with low‑level stuff, breaking things, fixing them again, and figuring out how computers actually work under the hood.  
 C, kernels, weird system behavior… that’s my comfort zone.
@@ -28,6 +27,7 @@ C, kernels, weird system behavior… that’s my comfort zone.
 I want to dive way deeper into OS development and eventually build my own small operating system — just to see if I can.  
 Long term, I want to understand every layer from hardware to user space.
 
-## Contact
-Old Git: https://github.com/scr1pt-dev0
+---
 
+## 📬 Contact
+Old Git: https://github.com/scr1pt-dev0
