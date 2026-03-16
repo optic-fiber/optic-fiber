@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there
 
-<!--
-**optic-fiber/optic-fiber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+I’m deeply interested in low‑level programming and system‑level development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Working on Linux — especially Fedora — is where I feel most at home.
+
+I enjoy exploring new ideas, experimenting with system internals, and pushing 
+
+my understanding of how computers really work.
+
+# Technical Focus Areas
+
+   Low‑level development and systems programming
+  
+   Writing kernel drivers and experimenting with kernel modules
+  
+   Building tools such as Nmap‑style scanners and other network utilities
+  
+   Learning and improving in C and Python
+  
+   Exploring AI models like Wang 2.2 14B and DeepSeek Coder V3
+  
+   Working with BSD‑based systems and open‑source tooling
+  
+
+# Future Plans
+
+I want to dive much deeper into operating system internals and eventually build a small OS from scratch.
+My long‑term goal is to understand systems at every layer — from hardware interactions to user‑space abstractions.
+
