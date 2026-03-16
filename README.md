@@ -25,8 +25,10 @@ my understanding of how computers really work.
    Working with BSD‑based systems and open‑source tooling
   
 
-# Future Plans
-
+#Future Plans
 I want to dive much deeper into operating system internals and eventually build a small OS from scratch.
 My long‑term goal is to understand systems at every layer — from hardware interactions to user‑space abstractions.
+
+#Contact
+Old Git: https://github.com/scr1pt-dev0
 
