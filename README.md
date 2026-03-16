@@ -1,6 +1,6 @@
 # Hi there
 
-# About Me
+## About Me
 
 I’m deeply interested in low‑level programming and system‑level development.
 
@@ -10,7 +10,7 @@ I enjoy exploring new ideas, experimenting with system internals, and pushing
 
 my understanding of how computers really work.
 
-# Technical Focus Areas
+## Technical Focus Areas
 
    Low‑level development and systems programming
   
@@ -25,12 +25,12 @@ my understanding of how computers really work.
    Working with BSD‑based systems and open‑source tooling
   
 
-# Future Plans
+## Future Plans
 
 I want to dive much deeper into operating system internals and eventually build a small OS from scratch.
 My long‑term goal is to understand systems at every layer — from hardware interactions to user‑space abstractions.
 
 
-# Contact
+## Contact
 Old Git: https://github.com/scr1pt-dev0
 
