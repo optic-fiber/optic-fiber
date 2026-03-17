@@ -1,8 +1,7 @@
 # 👋 Hi there
 
-## 🧑‍💻 About Me <img src="https://media.giphy.com/media/lOMdhAXf8ke6lEl3DZ/giphy.gif" width="160" align="right">
+## 🧑‍💻 About Me <img src="https://media.giphy.com/media/lOMdhAXf8ke6lEl3DZ/giphy.gif" width="160" 
 
-Linux enjoyer. Fedora lover.  
 I like testing things, breaking things, and understanding why they broke.  
 Low‑level stuff, kernels, C, weird system behavior — that’s where I feel at home.
 
