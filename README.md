@@ -1,8 +1,7 @@
 # 👋 Hi there
 
-## 🧑‍💻 About Me 
-<img src="https://media.giphy.com/media/lOMdhAXf8ke6lEl3DZ/giphy.gif" width="160">
-
+## 🧑‍💻 About Me <img src="https://media.giphy.com/media/lOMdhAXf8ke6lEl3DZ/giphy.gif" width="130" align="right">
+ 
 I like testing things, breaking things, and understanding why they broke.  
 Low‑level stuff, kernels, C, weird system behavior — that’s where I feel at home.
 
@@ -28,6 +27,7 @@ Low‑level stuff, kernels, C, weird system behavior — that’s where I feel a
 
 ---
 
+
 ## 🚀 Future Plans
 Build my own tiny OS.  
 Understand every layer from hardware to user space.  
@@ -37,5 +37,5 @@ Get deeper into systems programming.
 
 ## 📬 Contact
 Old Git: https://github.com/scr1pt-dev0  
-Main GitHub: https://github.com/optic-fiber
+
 
