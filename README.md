@@ -1,7 +1,8 @@
 # 👋 Hi there
 
 ## 🧑‍💻 About Me 
-<imgsrc="https://media.giphy.com/media/lOMdhAXf8ke6lEl3DZ/giphy.gif" width="160">
+<img src="https://media.giphy.com/media/
+lOMdhAXf8ke6lEl3DZ/giphy.gif" width="160">
 
 I like testing things, breaking things, and understanding why they broke.  
 Low‑level stuff, kernels, C, weird system behavior — that’s where I feel at home.
