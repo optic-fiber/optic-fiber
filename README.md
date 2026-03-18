@@ -17,7 +17,7 @@ Low‑level stuff, kernels, C, weird system behavior — that’s where I feel a
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20"/> C & Python (always improving)  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="20"/> OS internals & hardware interaction  
 - <img src="https://cdn.simpleicons.org/metasploit/000000" width="20"/> Security research & pentesting fundamentals  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Playing with AI models like Wang 2.2 14B & DeepSeek Coder V3  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Playing with AI models like Wan 2.2 14B & DeepSeek Coder V3  
 
 
 ---
