@@ -41,9 +41,6 @@ Get deeper into systems programming.
 
 ---
 
-## 📬 Contact
-Old Git: https://github.com/scr1pt-dev0  
-
 
 
 
