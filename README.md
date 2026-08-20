@@ -34,14 +34,6 @@ Low‑level stuff, kernels, C, weird system behavior — that’s where I feel a
 ---
 
 
-## 🚀 Future Plans
-Build my own tiny OS.  
-Understand every layer from hardware to user space.  
-Get deeper into systems programming.
-
----
-
-
 
 
 
